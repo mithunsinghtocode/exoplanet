@@ -29,8 +29,8 @@
 
 
 ## Improvements
-1. Logger should be integrated when deploying to PROD.
-2. Junit Testing should be integrated to have full code coverage.
+1. Logger should be integrated.
+2. Junit should be integrated to have full code coverage.
 3. Spring profiling for execution based on environment.
 
 
